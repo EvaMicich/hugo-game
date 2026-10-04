@@ -1,0 +1,1 @@
+{"name":"hugos-little-world","version":"1.0.0","private":true,"scripts":{"dev":"node scripts/serve.mjs","build":"node scripts/build.mjs","test":"node --test tests/game.test.cjs"}}
